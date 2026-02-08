@@ -18,7 +18,7 @@ This project supports public and private chat rooms, real-time messaging, and us
 - Backend: Node.js (Express)
 - Realtime Communication: Socket.IO
 - Authentication: JWT
-- Database: MongoDB / MySQL
+- Database: MongoDB
 
 ## Application Pages
 - Landing Page
