@@ -215,7 +215,7 @@ export default function RoomPage() {
       <header className="mx-auto flex w-full max-w-6xl items-center justify-between px-6 py-6">
         <a className="flex items-center gap-3" href="/dashboard">
           <div className="flex h-10 w-10 items-center justify-center rounded-2xl bg-black text-white">
-            PC
+            CA
           </div>
           <div>
             <p className="text-sm font-semibold">{roomName}</p>

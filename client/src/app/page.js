@@ -63,10 +63,10 @@ export default function Home() {
         <header className="mx-auto flex w-full max-w-6xl items-center justify-between px-6 py-8">
           <div className="flex items-center gap-3">
             <div className="flex h-10 w-10 items-center justify-center rounded-2xl bg-black text-white">
-              PC
+              CA
             </div>
             <div>
-              <p className="text-sm font-semibold">PulseChat</p>
+              <p className="text-sm font-semibold">ChatApp</p>
               <p className="text-xs text-[color:var(--color-muted)]">
                 Real-time rooms
               </p>
@@ -98,7 +98,7 @@ export default function Home() {
               A modern chat experience that feels alive.
             </h1>
             <p className="max-w-xl text-base leading-7 text-[color:var(--color-muted)] md:text-lg">
-              PulseChat blends rich room design, real-time presence, and reliable
+              ChatApp blends rich room design, real-time presence, and reliable
               history so every conversation feels effortless. Create rooms,
               manage access, and keep the energy flowing.
             </p>
@@ -308,7 +308,7 @@ export default function Home() {
       </section>
 
       <footer className="mx-auto flex w-full max-w-6xl flex-wrap items-center justify-between gap-4 px-6 pb-10 text-sm text-[color:var(--color-muted)]">
-        <p>PulseChat, built for focused conversations.</p>
+        <p>ChatApp, built for focused conversations.</p>
         <a className="btn btn-ghost" href="/auth">
           Start now
         </a>

@@ -270,10 +270,10 @@ export default function DashboardPage() {
       <header className="mx-auto flex w-full max-w-6xl flex-wrap items-center justify-between gap-4 px-6 py-8">
         <div className="flex items-center gap-3">
           <div className="flex h-10 w-10 items-center justify-center rounded-2xl bg-black text-white">
-            PC
+            CA
           </div>
           <div>
-            <p className="text-sm font-semibold">PulseChat</p>
+            <p className="text-sm font-semibold">ChatApp</p>
             <p className="text-xs text-[color:var(--color-muted)]">Dashboard</p>
           </div>
         </div>

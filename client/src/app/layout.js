@@ -14,9 +14,9 @@ const fraunces = Fraunces({
 });
 
 export const metadata = {
-  title: "PulseChat - Real-Time Rooms",
+  title: "ChatApp - Real-Time Rooms",
   description:
-    "A modern chat app with public and private rooms, real-time typing, and rich room backgrounds.",
+    "ChatApp is a modern chat app with public and private rooms, real-time typing, and rich room backgrounds.",
 };
 
 export default function RootLayout({ children }) {
